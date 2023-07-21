@@ -1,4 +1,5 @@
-![image](https://github.com/Rupa987/Weather-App/assets/133567383/9c937679-e79a-41e5-a73c-1ab2620799c0)
+![IMG_20230721_195909](https://github.com/Rupa987/Weather-App/assets/133567383/4ad65f9d-8888-454b-8953-0975f1c541e2)
+
 
 <br/>
 <br/>
