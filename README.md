@@ -1,3 +1,5 @@
+![image](https://github.com/Rupa987/Weather-App/assets/133567383/9c937679-e79a-41e5-a73c-1ab2620799c0)
+
 <br/>
 <br/>
 With the Weather App user can search loaction by city name and observe the weather for the next 5-6 days and 3 hour interval.
